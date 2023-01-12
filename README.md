@@ -1,6 +1,6 @@
 ### Minjae Isaac Kwon
 
-[![Minjae Kwon's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Kwon&hide=mathematica&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Minjae Kwon's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Isaac-Kwon&hide=mathematica&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Isaac-Kwon/Isaac-Kwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
